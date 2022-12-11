@@ -37,3 +37,11 @@
 * A timeholder is used to measure the start time in starting when the stage changes from relaxed to bent stage, and the end time is measured when the stages changes from bent to relaxed stage, duration is calculated by subtracting the end time from the start time. 
 * If a user can hold the leg in the bent stage for the duration of **8** or more than 8 seconds, then the rep count is incremented. 
 * Otherwise if the user is unable to stay in the bent stage for more than 8 seconds, the feedback will print **keep your knee bent**.
+
+## Input Video:
+
+https://user-images.githubusercontent.com/58467403/206901158-8dfc2f56-a776-4438-881c-12ba9533b526.mp4
+
+## Output Video:
+
+https://user-images.githubusercontent.com/58467403/206901533-ca2acdb6-59b7-4af8-b6fa-3e3228c475ed.mp4
